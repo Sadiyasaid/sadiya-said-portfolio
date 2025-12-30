@@ -1,4 +1,4 @@
-# sadiya-said-cybersecurity-portfolio
+# sadiya-said-portfolio
 
 ## About Me
 Cybersecurity Analyst with over four years of experience in Security Operations Center (SOC) and Managed Security Services (MSSP) environments. Specialized in threat detection, incident response, and defense-focused security analysis using Microsoft Sentinel, Microsoft Defender XDR, Splunk, and endpoint detection platforms.
